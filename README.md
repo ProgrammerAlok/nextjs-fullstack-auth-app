@@ -1,5 +1,17 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Tech i used
+    [*] MongoDb
+    [*] Nextjs
+    [*] Typescript
+    [*] Mailtrap
+
+## Features implimented
+    [*] User Sign up
+    [*] User Sign in
+    [*] User Email Verification 
+    [*] User Forgot Password
+
 ## Getting Started
 
 First, run the development server:
